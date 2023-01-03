@@ -1,0 +1,84 @@
+
+
+
+
+
+.navbar{
+
+   background-color: rgb(21, 21, 22);
+
+}
+
+.nav-link{
+    color: rgb(165, 233, 38);
+    font-weight: 600;
+    margin-left: 150px;
+}
+
+.carousel-inner img{
+
+    width: 100%;
+    height: 500px;
+}
+
+
+.card-deck img{
+
+     height: 275px;
+}
+
+
+.cardes{
+
+      margin-top: 50px;
+      
+}
+
+.card-title{
+
+      font-weight: 600;
+      color: red;
+      text-transform: uppercase;
+}
+
+.card{
+
+    background-color: rgb(247, 175, 93);
+}
+
+
+.footer{
+
+
+      width: 100%;
+      color: rgb(236, 23, 23);
+      margin-top: 50px;
+}
+
+
+.linkes li{
+
+       list-style: none;
+       font-weight: 700;
+
+     
+}
+
+.linkes{
+     width: 33.2%;
+     display: inline;
+     float: left;
+     background-color: rgb(252, 188, 70);
+     padding-top: 20px;
+     text-align: center;  
+
+}
+
+
+
+
+
+
+
+
+

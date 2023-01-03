@@ -1,0 +1,28 @@
+
+.aboutus img{
+
+    width: 100%;
+    height: 400px;
+    margin-top: 50px;
+}
+.aboutus p{
+    font-size: 22px;
+    color: rgb(238, 200, 30);
+    font-weight: 600;
+    padding: 60px;
+    text-align: center;
+}
+
+.aboutus button{
+     
+      width: 50%;
+      margin-left: 25%;
+      
+     
+}
+
+.space_footer{
+
+     width: 100%;
+     height: 50px;
+}
